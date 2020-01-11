@@ -19,7 +19,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="print1" />
+        <entry key="$PROJECT_DIR$" value="Abcd" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -97,30 +97,38 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="585" y="117" key="CommitChangelistDialog2" timestamp="1578748726292">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="585" y="117" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1578748726292" />
     <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1578237565751">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1578237565751" />
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1578746961709">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1578748833063">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578592432011" />
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1578746961709" />
-    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1578746961709">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1578748833063" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1578748833063">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578592432011" />
-    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1578746961709" />
-    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1578746961709">
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1578748833063" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1578748833063">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578592432011" />
-    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1578746961709" />
-    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1578746961709">
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1578748833063" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1578748833063">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1578592432011" />
-    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1578746961709" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1578748833063" />
+    <state x="552" y="246" key="Vcs.Push.Dialog.v2" timestamp="1578748729776">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="246" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1578748729776" />
     <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1578322162096">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
