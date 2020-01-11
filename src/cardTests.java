@@ -10,5 +10,7 @@ public class cardTests {
 
         cards.add(jp1,"Panel1");
         cards.add(jp2,"Panel2");
+
+        System.out.println("sadsadsadsad");
     }
 }
