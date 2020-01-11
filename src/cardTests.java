@@ -16,6 +16,13 @@ public class cardTests {
         System.out.println("dfdsf");
         System.out.println("dfdsf");
         System.out.println("sadsaewrwedsadsad");
+        
+        
+        
+         System.out.println("34234");
+        System.out.println("3242342345235235");
+        
+        
 
     }
 }
